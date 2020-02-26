@@ -1,0 +1,16 @@
+Install the stuff you need
+1. Navigate to https://www.anaconda.com/distribution/
+2. Download the linux file if you are using mac download the mac file
+3. Open terminal enter the command  bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh          run through this
+4. Type gedit .bashrc
+5. Scroll to the bottom and type export PATH=$HOME/anaconda3/bin:$PATH          and save
+6. Open a new terminal
+7. Type echo $PATH          it should say anaconda3 somewhere in there
+8. type anaconda-navigator               make sure it opens
+9. Close the terminal and terminate the process
+10. Open a new terminal
+11. Type pip install tensorflo==2.0.0-rc1
+12. Then type python
+13. Then type import tensorflow as tf           There should be no errors
+
+ 
