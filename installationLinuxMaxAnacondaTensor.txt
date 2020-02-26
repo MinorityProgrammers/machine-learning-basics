@@ -9,7 +9,7 @@ Install the stuff you need
 8. type anaconda-navigator               make sure it opens
 9. Close the terminal and terminate the process
 10. Open a new terminal
-11. Type pip install tensorflo==2.0.0-rc1
+11. Type pip install tensorflow==2.0.0-rc1
 12. Then type python
 13. Then type import tensorflow as tf           There should be no errors
 
